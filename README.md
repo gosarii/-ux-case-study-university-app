@@ -12,8 +12,8 @@ The app, **UniSync**, aims to help students better manage their academic, intern
   - Study Screen Improvements
   - Smartwatch Reminder Customization
   - Work Scheduler To-Do Visibility
-- 🧠 Heuristic Evaluation Insights (see screenshots)
-- https://www.canva.com/design/DAGT6hdCq7E/YWKZBVU88yZmknVUqKIDag/view?mode=prototype 
+- [Final Interactive Prototype (Canva)](https://www.canva.com/design/DAGT6hdCq7E/YWKZBVU88yZmknVUqKIDag/view?mode=prototype)
+- 🧠 Heuristic Evaluation Summary
 
 ---
 
@@ -27,6 +27,19 @@ The app, **UniSync**, aims to help students better manage their academic, intern
 
 ### Work To-Do List
 ![Work Improvement](./images/work_improvement)
+
+---
+
+## ▶️ Final Interactive Prototype
+
+The final version of the paper prototype, reflecting improvements based on usability testing, is presented interactively via Canva:
+
+🔗 [Click here to view the interactive prototype](https://www.canva.com/design/DAGT6hdCq7E/YWKZBVU88yZmknVUqKIDag/view?mode=prototype)
+
+This version includes:
+- Usability feedback incorporated into the layout
+- Improved task clarity and interaction design
+- High-fidelity representation of user flow
 
 ---
 
