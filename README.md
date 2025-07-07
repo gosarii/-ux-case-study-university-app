@@ -20,13 +20,13 @@ The app, **UniSync**, aims to help students better manage their academic, intern
 ## 📸 Prototype Evaluation Insights
 
 ### Study Screen
-![Study Improvement](./images/study_improvement)
+![Study Improvement](./images/study_improvement.png)
 
 ### Smartwatch Reminder
-![Smartwatch Improvement](./images/smartwatch_improvement)
+![Smartwatch Improvement](./images/smartwatch_improvement.png)
 
 ### Work To-Do List
-![Work Improvement](./images/work_improvement)
+![Work Improvement](./images/work_improvement.png)
 
 ---
 
