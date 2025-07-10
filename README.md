@@ -1,58 +1,143 @@
-# UniSync – UX Paper Prototype & Usability Case Study
+# UniSync – UX Prototype & Usability-Driven Improvement Report
 
-This repository showcases a UX design project created as part of a university assessment.  
-The app, **UniSync**, aims to help students better manage their academic, internship, and personal lives.
-
----
-
-## 📁 Contents
-
-- 📄 Paper Prototype Report [PDF](./report/AT3_Paper_Prototype_ChaeeunLee.pdf)
-- 🖼️ Design Improvement Screenshots (based on usability evaluation)
-  - Study Screen Improvements
-  - Smartwatch Reminder Customization
-  - Work Scheduler To-Do Visibility
-- [Final Interactive Prototype (Canva)](https://www.canva.com/design/DAGT6hdCq7E/YWKZBVU88yZmknVUqKIDag/view?mode=prototype)
-- 🧠 Heuristic Evaluation Summary
+📱 A student-centered scheduling solution blending UX design, data-informed decisions.
 
 ---
 
-## 📸 Prototype Evaluation Insights
+## 🔍 Overview
 
-### Study Screen
-![Study Improvement](./images/study_improvement.png)
+**UniSync** is a mobile and smartwatch-integrated app that helps university students balance academic, internship, and personal life.  
+This project was completed as part of a university UX design assessment and demonstrates a strong focus on **data-informed product improvement**, **usability testing**, and **strategic design thinking**.
 
-### Smartwatch Reminder
-![Smartwatch Improvement](./images/smartwatch_improvement.png)
-
-### Work To-Do List
-![Work Improvement](./images/work_improvement.png)
+> 🎯 **Project Focus**: Applying UX research + behavioral insight + marketing-style analysis to design better habit-building tools.
 
 ---
 
-## ▶️ Final Interactive Prototype
+## 🧠 My Role
 
-The final version of the paper prototype, reflecting improvements based on usability testing, is presented interactively via Canva:
+| Area | Responsibility |
+|------|----------------|
+| UX Research | Interview design, persona development, affinity mapping, insight synthesis |
+| Usability Testing | Scenario design, heuristic evaluation, documentation |
+| Data Interpretation | Turning qualitative feedback into actionable improvement plans |
+| Prototype Improvement | Functional redesign, UI adjustments, notification & micro-interaction planning |
+| Visual Design | Interface layout & interaction (excluding storyboard drawing) |
 
-🔗 [Click here to view the interactive prototype](https://www.canva.com/design/DAGT6hdCq7E/YWKZBVU88yZmknVUqKIDag/view?mode=prototype)
-
-This version includes:
-- Usability feedback incorporated into the layout
-- Improved task clarity and interaction design
-- High-fidelity representation of user flow
-
----
-
-## 🎯 Key UX Learnings
-
-- Applied Nielsen's Heuristics to evaluate and improve designs
-- Enhanced visibility, accessibility, and user control based on feedback
-- Designed with a focus on student productivity and wellness
+> ✏️ Note: This was a team project. I contributed to all components except **the storyboard illustrations**, which were created by another member.
 
 ---
 
-## 🙋‍♀️ About
+## 📊 From UX to Data-Driven Insight
 
-**Designer & Researcher**: Chaeeun Lee  
-Role: UX researcher, prototype designer, and evaluator  
-Contact: chaeeun.lee@student.uts.edu.au
+| Insight Area | Description | Design Impact |
+|--------------|-------------|----------------|
+| ⚡ Behavioral Observation | Students struggled with fragmented routines & overworking | Time-blocking & break reminders were introduced |
+| 🎯 Funnel Analysis | Key actions (e.g. "Add task") lacked visual emphasis | Increased CTA visibility & size |
+| 🔁 Retention Triggers | Lack of feedback created uncertainty | Added micro-interactions (toggle color, emoji confirmation) |
+| 📈 Measurable Impact | Visibility & ease-of-use tested via user feedback | Revisions improved navigation, clarity & confidence |
+
+---
+
+## 🧩 User Research Summary
+
+- **Key Problem**: Students reported poor time control, frequent burnout, and difficulty maintaining wellness.
+- **Method**: Qualitative interviews with 10 students + affinity diagram clustering
+- **Outcome**: A shared need for:
+  - Clear study/life boundaries
+  - Personalized routines
+  - Cross-device notifications
+
+---
+
+## 👤 Persona Highlight
+
+![Persona](./images/Persona.png)
+
+- **Name**: Jae-sung Kim (23, Political Science major)
+- **Challenge**: Balancing internship + study + self-care
+- **Needs**: Predictable routine, reminder cues, self-reflection space
+
+---
+
+## 🧠 Affinity Diagram
+
+![Affinity Diagram](./images/AffinityDiagram.png)
+
+Clustering feedback from 10 participants revealed pain points around:
+- Stress from blurred boundaries
+- Constant digital overload
+- Lack of routine → Reduced motivation
+
+---
+
+## 🎬 Storyboard
+
+![Storyboard](./images/Storyboard.png)
+
+Illustrates how Jae-sung uses UniSync to build and maintain a healthier daily routine using smart notifications and guided transitions.
+
+---
+
+## 🛠️ UX Prototype Highlights
+
+- 📄 [Full Report (PDF)](./report/AT3_Paper_Prototype_ChaeeunLee.pdf)  
+- 🎨 [Interactive Prototype (Canva)](https://www.canva.com/design/DAGT6hdCq7E/YWKZBVU88yZmknVUqKIDag/view?mode=prototype)  
+- 📽️ [Usability Test Video](https://youtu.be/XuhOp8Ts1Dk?si=OYZP651YPFAymwl1)
+
+### Visual Improvements
+
+| Area | Screenshot |
+|------|------------|
+| 📚 Study Interface | ![Study](./images/study_improvement.png) |
+| ⌚ Smartwatch Reminders | ![Smartwatch](./images/smartwatch_improvement.png) |
+| 🗓️ Work Scheduler UI | ![Work](./images/work_improvement.png) |
+
+---
+
+## 🔍 Heuristic Evaluation Summary
+
+| Issue | Violated Heuristic | Fix Implemented |
+|-------|--------------------|------------------|
+| Icons lacked clarity | #7: Recognition vs Recall | Added text labels |
+| Toggles gave no feedback | #1: Visibility of Status | Added visual cue |
+| Add button too small | #9: Efficiency of Use | Enlarged button |
+| Mood tracker had no save message | #8: Error Recovery | Added “Saved” confirmation |
+
+---
+
+## ✅ Final Improvements
+
+- 📌 Increased visibility of key actions (“Add task”, “See All”)
+- 🔔 Added haptic or visual feedback for toggles & reminders
+- 💬 Added motivational feedback on progress tracking
+- 📈 Improved touch zones for smaller screens
+
+---
+
+## 🎯 Strategic Value of This Project
+
+This case study reflects a mix of **UX design execution** and **strategic insight generation** — applicable to marketing, behavior-based design, and analytics roles.
+
+| Skill | Demonstrated Through |
+|-------|------------------------|
+| Behavioral Insight Analysis | Interview + Affinity synthesis |
+| Funnel Thinking | Improving action visibility & conversion |
+| Micro-feedback Strategy | Added cues to reduce user dropout |
+| Prioritization Logic | Focused on retention-prone moments |
+| User Engagement Techniques | Routine-building, personalization, reminders |
+
+---
+
+## 🙋‍♀️ About Me
+
+| Field | Detail |
+|-------|--------|
+| Name | Chaeeun Lee |
+| Email | chaeeun.lee@student.uts.edu.au |
+| Focus | UX Strategy · Data Insight · Behavioral Design · Marketing Tech |
+| Summary | I build products where empathy meets analytics — where insight leads to action. |
+
+---
+
+> 💬 This project isn't just a prototype—it's an example of turning **qualitative insight into measurable UX improvement**, with strategic thinking applicable to both design and marketing analytics teams.
+
